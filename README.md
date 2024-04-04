@@ -1,9 +1,8 @@
-[![MasterHead](https://pin.it/6z15I8ZyH)](https://safiyacodesstuff.io)
+[![MasterHead](https://www.pinterest.de/pin/663225482641838327/)](https://safiyacodesstuff.io)
 
 <h1 align="center">Hi 👋, I'm Safiya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safiyacodesstuff&label=Profile%20views&color=0e75b6&style=flat" alt="safiyacodesstuff" /> </p>
-<img align="right" alt="Coding" width="400" src="
-https://pin.it/toOjQT8Xg">
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.de/pin/663225482641838327/">
 
 
 - 👀 I’m interested in **all things space and tech related**
@@ -19,6 +18,3 @@ https://pin.it/toOjQT8Xg">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiyacodesstuff&show_icons=true&locale=en&layout=compact" alt="safiyacodesstuff" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safiyacodesstuff&show_icons=true&locale=en" alt="safiyacodesstuff" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiyacodesstuff&" alt="safiyacodesstuff" /></p>![image](https://github.com/safiyacodesstuff/safiyacodesstuff/assets/165883249/1de4c45f-87ce-4629-b95c-ec9ea6086c7f)
-
