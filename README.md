@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Safiya
-- 👀 I’m interested in ...
-- 🌱 I’m currently trying to leran different coding languages 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in all things space and tech related
+- 🌱 I’m currently trying to get a foundation in various coding languages
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm licensed to teach your kids some sick dance moves 🕺
+
 
 <!---
 safiyacodesstuff/safiyacodesstuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
