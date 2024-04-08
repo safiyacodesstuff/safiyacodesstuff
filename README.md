@@ -15,3 +15,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiyacodesstuff&show_icons=true&locale=en&layout=compact" alt="safiyacodesstuff" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safiyacodesstuff&show_icons=true&locale=en" alt="safiyacodesstuff" /></p>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@safiyacodesshit/30-nites-of-code)  
+  ![@safiyacodesshit #30NitesOfCode](https://www.codedex.io/api/petStatus?user=safiyacodesshit)
